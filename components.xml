@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <components>
-    <component
-        name="auto_pilot"
-        svnpath="https://coder.topcoder.com/tcs/catalog/java/auto_pilot/trunk"
-        revision="223144"/>
+    <!--<component-->
+        <!--name="auto_pilot"-->
+        <!--svnpath="https://coder.topcoder.com/tcs/catalog/java/auto_pilot/trunk"-->
+        <!--revision="223144"/>-->
 
     <component
         name="deliverable_management"

@@ -101,6 +101,7 @@
             <fileset dir="${ext_libdir}/joda-time" includes="*.jar" />
             <fileset dir="${ext_libdir}/commons" includes="*.jar"/>
             <fileset dir="${ext_libdir}/jackson" includes="*.jar"/>
+	        <fileset dir="${ext_libdir}/kafka-libs" includes="*.jar"/>
 
             <fileset dir=".">
                 <include name="build.xml"/>
